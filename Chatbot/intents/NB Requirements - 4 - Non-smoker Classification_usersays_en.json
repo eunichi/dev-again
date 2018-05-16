@@ -1,0 +1,38 @@
+[
+  {
+    "id": "da1b79b9-22a1-40bf-9d54-d25146fc592f",
+    "data": [
+      {
+        "text": "non-smoker",
+        "alias": "smoker-nonsmoker",
+        "meta": "@smoker-nonsmoker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526265658
+  },
+  {
+    "id": "25d39236-98c5-4273-84cd-b681d8248de7",
+    "data": [
+      {
+        "text": "How to classify as a ",
+        "userDefined": false
+      },
+      {
+        "text": "non-smoker",
+        "alias": "smoker-nonsmoker",
+        "meta": "@smoker-nonsmoker",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526265658
+  }
+]

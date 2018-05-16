@@ -1,0 +1,28 @@
+{
+  "id": "8d07adf7-8ec7-4edc-b224-8d476c42cfd5",
+  "name": "Surrender - 1 - Surrender policy requirements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Copy of Original Surrender Form and Copy of IC required for every surrender request and submit to the branch."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526270957,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "7bcb6f06-ea74-46b7-8990-3b5b65664fc3",
+  "name": "NB Requirements - 8 - PMAR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91a4add9-fc6d-4d0e-a135-ee1ddb225f97",
+          "required": false,
+          "dataType": "@customer",
+          "name": "customer",
+          "value": "$customer",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526285176,
+  "fallbackIntent": false,
+  "events": []
+}

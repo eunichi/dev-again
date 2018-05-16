@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9aa8ec49-c14c-4470-8a94-fce798cfdbfd",
+    "data": [
+      {
+        "text": "mine",
+        "alias": "Owncard",
+        "meta": "@Owncard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525771296
+  },
+  {
+    "id": "4ced89aa-4e65-4936-997d-954a46b48473",
+    "data": [
+      {
+        "text": "Can I use my Credit/Debit card for recurrence of premium deduction?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525771296
+  }
+]

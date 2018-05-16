@@ -1,0 +1,83 @@
+[
+  {
+    "id": "675034da-b634-4441-8370-998b3ff64bf7",
+    "data": [
+      {
+        "text": "How and when can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " money after withdrawal request?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269484
+  },
+  {
+    "id": "cf66d375-e453-4dee-89ef-235adcd7f47a",
+    "data": [
+      {
+        "text": "How and when the payment be received after withdrawal has been approved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269484
+  },
+  {
+    "id": "2948cc49-f916-41f9-bc69-30f9870c4ff9",
+    "data": [
+      {
+        "text": "When will I receive payment after withdrawal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269484
+  },
+  {
+    "id": "612e4776-b16b-4223-83e1-1b148d3a6e54",
+    "data": [
+      {
+        "text": "Can I receive payment after withdrawal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269484
+  },
+  {
+    "id": "ca2b998d-522d-4410-8d1e-da2753421656",
+    "data": [
+      {
+        "text": "Will there be payment to be received after withdrawal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269484
+  },
+  {
+    "id": "fd3548aa-b80d-44c9-8f11-5acef9ce3807",
+    "data": [
+      {
+        "text": "When I will receive the payment after withdrawal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269484
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "8973eb6a-8f71-47be-bd7c-4fd53419eebe",
+  "name": "NB Requirements - 3 - How to classify smoker and non-smoker",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "non-smoker",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "smoker",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "39add70f-64c0-409f-80b2-f65405739492",
+          "dataType": "@smoker-nonsmoker",
+          "name": "smoker-nonsmoker",
+          "value": "$smoker-nonsmoker",
+          "isList": false
+        },
+        {
+          "id": "54701d95-c057-4377-963e-0c0041c499bb",
+          "dataType": "@smoker-nonsmoker",
+          "name": "smoker-nonsmoker1",
+          "value": "$smoker-nonsmoker1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "a smoker or non-smoker? (choose one)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526265403,
+  "fallbackIntent": false,
+  "events": []
+}

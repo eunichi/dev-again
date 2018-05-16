@@ -1,0 +1,29 @@
+{
+  "id": "10d03796-044f-411f-9013-7c9d4c08ca61",
+  "name": "CCS enrolment - 6 - Receipt for credit, debit or auto debit deductions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is no receipt issued. Cardholders/account holders can check their monthly bank/credit card statement. However, if the premium deduction is unsuccessful, a letter will be issued to the policyholder."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525400903,
+  "fallbackIntent": false,
+  "events": []
+}

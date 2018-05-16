@@ -1,0 +1,38 @@
+{
+  "id": "ff930474-3ced-4143-9f91-0187adc7496b",
+  "name": "CCS enrolment - 4 - Use of own credit/debit card for premium deduction",
+  "auto": true,
+  "contexts": [
+    "own-card"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fdc98205-29ac-497c-9e43-c3d52e5b0f91",
+          "dataType": "@Owncard",
+          "name": "Owncard",
+          "value": "$Owncard",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, you can. You may complete Credit/Debit card enrolment form. \n\nFor Debit card transaction, before you authorize us to deduct from your Debit Card, you must contact your bank to opt in and allow transaction(s) without producing the physical Debit Card to us. Otherwise, your Debit Card transaction(s) may not be successful."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525771296,
+  "fallbackIntent": false,
+  "events": []
+}

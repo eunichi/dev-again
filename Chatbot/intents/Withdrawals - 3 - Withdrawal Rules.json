@@ -1,0 +1,28 @@
+{
+  "id": "1a439c66-1836-4cb0-b8b1-ca1bb3eb0fab",
+  "name": "Withdrawals - 3 - Withdrawal Rules",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kindly refer to https://www.prudential.com.my/export/sites/prudential-pamb/.galleries/PDF/Form/forms/withdrawal-guidelines.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526270219,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "30c97a98-8abd-4897-93b8-8be77a1e9d1b",
+  "name": "NB Requirements - 2 - Proof of identity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided for that yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526264797,
+  "fallbackIntent": false,
+  "events": []
+}

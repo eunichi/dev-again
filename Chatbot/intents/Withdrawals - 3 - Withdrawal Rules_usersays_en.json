@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fe4a0ee9-1a14-4100-8546-736d5043d4d7",
+    "data": [
+      {
+        "text": "Are there rules I need to follow before I can withdraw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270219
+  },
+  {
+    "id": "df064532-4632-429f-b2a3-d18511c0c1af",
+    "data": [
+      {
+        "text": "Are there any withdrawal rules?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270219
+  },
+  {
+    "id": "b78d27c2-cd7f-42bc-b69f-f42a2b8c0c83",
+    "data": [
+      {
+        "text": "What\u0027s the withdrawal rules",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270219
+  },
+  {
+    "id": "e8dae360-42d5-4278-85fe-b4f189b3fba0",
+    "data": [
+      {
+        "text": "Withdrawal rules",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525402107
+  }
+]

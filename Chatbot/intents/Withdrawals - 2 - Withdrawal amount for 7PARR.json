@@ -1,0 +1,28 @@
+{
+  "id": "1b0972ae-055b-42d8-9fdf-d98cb90aebd0",
+  "name": "Withdrawals - 2 - Withdrawal amount for 7PARR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Minimum withdrawal is RM1000."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526270067,
+  "fallbackIntent": false,
+  "events": []
+}

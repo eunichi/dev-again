@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a11bb059-f85a-48b5-8335-f01f8e033f08",
+    "data": [
+      {
+        "text": "Proof of identity requirements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526264797
+  },
+  {
+    "id": "0244aee5-0b4a-4db7-b614-d7462674839b",
+    "data": [
+      {
+        "text": "Documents for proof of identity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526264797
+  },
+  {
+    "id": "40c2e6c6-1145-40bb-9ead-be6f9fb65cfe",
+    "data": [
+      {
+        "text": "What documents consider as proof of identity?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526264797
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "value": "others",
+    "synonyms": [
+      "others",
+      "friend",
+      "colleague",
+      "neighbor",
+      "boyfriend",
+      "bestfriend",
+      "girlfriend",
+      "bf",
+      "gf",
+      "bff"
+    ]
+  },
+  {
+    "value": "own",
+    "synonyms": [
+      "own"
+    ]
+  },
+  {
+    "value": "otherscard",
+    "synonyms": [
+      "otherscard"
+    ]
+  },
+  {
+    "value": "my friend",
+    "synonyms": [
+      "my friend"
+    ]
+  },
+  {
+    "value": "not mine",
+    "synonyms": [
+      "not mine"
+    ]
+  }
+]

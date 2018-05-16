@@ -1,0 +1,28 @@
+{
+  "id": "0dc124ee-94e3-4147-bdfc-fcc5a9f06134",
+  "name": "Clarification on Coverage - 1 - Day surgery benefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kindly refer to https://www.prudential.com.my/en/our-services/make-a-claim/day-surgery-benefits/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526264200,
+  "fallbackIntent": false,
+  "events": []
+}

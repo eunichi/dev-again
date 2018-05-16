@@ -1,0 +1,39 @@
+{
+  "id": "516cc1dd-a356-4bb2-a4ea-21d60b5fa614",
+  "name": "NB Requirements - 4 - Non-smoker Classification",
+  "auto": true,
+  "contexts": [
+    "non-smoker"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5840a02f-093c-434d-9870-eefbe15b4924",
+          "required": false,
+          "dataType": "@smoker-nonsmoker",
+          "name": "smoker-nonsmoker",
+          "value": "$smoker-nonsmoker",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet (non-smoker)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526265658,
+  "fallbackIntent": false,
+  "events": []
+}

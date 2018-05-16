@@ -1,0 +1,42 @@
+{
+  "id": "4ab51395-0050-48f5-a929-913e4bcdb083",
+  "parentId": "2a75f910-89d8-479d-b9d3-17403672bd1f",
+  "rootParentId": "2a75f910-89d8-479d-b9d3-17403672bd1f",
+  "name": "Mine - CCS enrolment - 3/4 - Use card - custom",
+  "auto": true,
+  "contexts": [
+    "own-card",
+    "CCSenrolment-34-Usecard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CCSenrolment-34-Usecard.CCSenrolment-34-Usecard-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0c5707a9-151b-400a-beed-657c03dcfb4b",
+          "dataType": "@Owncard",
+          "name": "Owncard",
+          "value": "$Owncard",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, you can. You may complete Credit/Debit card enrolment form. \n\nFor Debit card transaction, before you authorize us to deduct from your Debit Card, you must contact your bank to opt in and allow transaction(s) without producing the physical Debit Card to us. Otherwise, your Debit Card transaction(s) may not be successful"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526282031,
+  "fallbackIntent": false,
+  "events": []
+}

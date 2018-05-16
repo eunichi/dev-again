@@ -1,0 +1,50 @@
+[
+  {
+    "id": "89254a66-6d70-4c23-97ed-b49bcd57a637",
+    "data": [
+      {
+        "text": "Until when will the gynae report be valid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526270463
+  },
+  {
+    "id": "92773366-4ef9-419a-9ad2-b6221e23eb1b",
+    "data": [
+      {
+        "text": "Gynae report validity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270463
+  },
+  {
+    "id": "61d2b1e6-f9ca-4520-afe8-9c901749a678",
+    "data": [
+      {
+        "text": "How long can the gynae reporet be valid or acceptable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270463
+  },
+  {
+    "id": "a82f8ab9-a7b1-4928-b726-d758e65317ae",
+    "data": [
+      {
+        "text": "How long is the validity for the gynae report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525402384
+  }
+]

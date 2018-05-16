@@ -1,0 +1,55 @@
+{
+  "id": "65e2de5d-3a33-4ae0-bddc-5cf2e3cb3787",
+  "name": "Billing - 1 - Stop recurring billing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2140d8a4-2454-46d3-b86f-099348dcc815",
+          "required": true,
+          "dataType": "@Payment-type",
+          "name": "Payment-type",
+          "value": "$Payment-type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know the payment type?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "8f94eeeb-a0db-43fb-9dcc-0a39cb9f3a65",
+          "dataType": "@Payment-type",
+          "name": "Payment-type1",
+          "value": "$Payment-type1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kindly fill up Payment Alteration Form or write in to Prudential. \n\nThe form is available at PRUaccess Plus Website (https://pruaccessplus.prudential.com.my/pap/general/public_pamb_form.do?formClassificationId\u003dform.classification.2)"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526276592,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32118e98-73b8-49c7-ae10-0d80eb9d1130",
+    "data": [
+      {
+        "text": "PMAR for ",
+        "userDefined": false
+      },
+      {
+        "text": "PH",
+        "alias": "customer",
+        "meta": "@customer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526285176
+  },
+  {
+    "id": "78ad0a39-9bb6-483f-b488-06d9bc750293",
+    "data": [
+      {
+        "text": "PMAR for ",
+        "userDefined": false
+      },
+      {
+        "text": "policy holder",
+        "alias": "customer",
+        "meta": "@customer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526285176
+  },
+  {
+    "id": "5ca86af9-3dc4-4657-999c-1f9bb3bce135",
+    "data": [
+      {
+        "text": "Does the ",
+        "userDefined": false
+      },
+      {
+        "text": "policy holder",
+        "alias": "customer",
+        "meta": "@customer",
+        "userDefined": false
+      },
+      {
+        "text": " need to do PMAR?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526285176
+  },
+  {
+    "id": "b7a3a4bd-bc3e-4c03-8489-02b2e60b9f56",
+    "data": [
+      {
+        "text": "Why ",
+        "userDefined": false
+      },
+      {
+        "text": "PH",
+        "alias": "customer",
+        "meta": "@customer",
+        "userDefined": true
+      },
+      {
+        "text": " need to do PMAR?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526285176
+  }
+]

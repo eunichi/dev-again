@@ -1,0 +1,28 @@
+{
+  "id": "75efc8c5-cb69-4e63-9c81-cc35ada47383",
+  "name": "NB Requirements - 7 - ECG report",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526268343,
+  "fallbackIntent": false,
+  "events": []
+}

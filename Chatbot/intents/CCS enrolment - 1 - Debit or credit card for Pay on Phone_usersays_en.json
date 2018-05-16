@@ -1,0 +1,118 @@
+[
+  {
+    "id": "85fedd3f-e707-47d3-b39d-d725231c4357",
+    "data": [
+      {
+        "text": "what card can I use for ",
+        "userDefined": false
+      },
+      {
+        "text": "pay on phone",
+        "alias": "Debit-Credit-Facility",
+        "meta": "@Debit-Credit-Facility",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280309
+  },
+  {
+    "id": "9f78bbf5-cbfd-422b-8e3e-fc198d2dfd6d",
+    "data": [
+      {
+        "text": "Pay on phone",
+        "alias": "Debit-Credit-Facility",
+        "meta": "@Debit-Credit-Facility",
+        "userDefined": false
+      },
+      {
+        "text": " payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280309
+  },
+  {
+    "id": "83fc3355-95f7-4e3a-a128-b1a6bc69b754",
+    "data": [
+      {
+        "text": "What type of card I use for ",
+        "userDefined": false
+      },
+      {
+        "text": "pay on phone",
+        "alias": "Debit-Credit-Facility",
+        "meta": "@Debit-Credit-Facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280309
+  },
+  {
+    "id": "cbd61517-7d93-4923-a568-23ee2fbd335d",
+    "data": [
+      {
+        "text": "pay on phone",
+        "alias": "Debit-Credit-Facility",
+        "meta": "@Debit-Credit-Facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280309
+  },
+  {
+    "id": "537fe62c-6972-4c0a-a963-fcb65f5f0229",
+    "data": [
+      {
+        "text": "What type of card can be used for ",
+        "userDefined": false
+      },
+      {
+        "text": "Pay on Phone",
+        "alias": "Debit-Credit-Facility",
+        "meta": "@Debit-Credit-Facility",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280309
+  },
+  {
+    "id": "00efc6c6-a7aa-433b-9d10-f3be23b3b7d0",
+    "data": [
+      {
+        "text": "What type of debit or credit card can be used for ",
+        "userDefined": false
+      },
+      {
+        "text": "Pay on Phone",
+        "alias": "Debit-Credit-Facility",
+        "meta": "@Debit-Credit-Facility",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280309
+  }
+]

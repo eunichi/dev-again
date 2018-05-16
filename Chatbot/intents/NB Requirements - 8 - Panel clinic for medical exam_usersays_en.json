@@ -1,0 +1,107 @@
+[
+  {
+    "id": "5a474e4a-fe2a-473c-b4af-9748eff14ec0",
+    "data": [
+      {
+        "text": "Can I reimburse for the ME fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526268861
+  },
+  {
+    "id": "1d4cc4c4-25d5-4eae-8178-f83d8be1430a",
+    "data": [
+      {
+        "text": "Do I need to do ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ME",
+        "alias": "Medical-examination",
+        "meta": "@Medical-examination",
+        "userDefined": true
+      },
+      {
+        "text": " at panel clinics only?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526268861
+  },
+  {
+    "id": "5be0bdef-9374-48e7-a287-4a9da542f7ca",
+    "data": [
+      {
+        "text": "medical exam",
+        "alias": "Medical-examination",
+        "meta": "@Medical-examination",
+        "userDefined": false
+      },
+      {
+        "text": " at panel clinic only?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526268861
+  },
+  {
+    "id": "b6bafa16-da28-407b-9962-fb4532933777",
+    "data": [
+      {
+        "text": "Does the ",
+        "userDefined": false
+      },
+      {
+        "text": "medical exam",
+        "alias": "Medical-examination",
+        "meta": "@Medical-examination",
+        "userDefined": false
+      },
+      {
+        "text": " need to be done at panel clinics?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526268861
+  },
+  {
+    "id": "96e57324-88cc-4c29-a409-bdbb2a97c058",
+    "data": [
+      {
+        "text": "Do ",
+        "userDefined": false
+      },
+      {
+        "text": "ME",
+        "alias": "Medical-examination",
+        "meta": "@Medical-examination",
+        "userDefined": true
+      },
+      {
+        "text": " need to do at panel clinic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526268861
+  }
+]

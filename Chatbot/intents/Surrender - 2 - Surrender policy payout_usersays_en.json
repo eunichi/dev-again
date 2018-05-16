@@ -1,0 +1,113 @@
+[
+  {
+    "id": "a49be910-592a-4e66-9368-0b0cbf506962",
+    "data": [
+      {
+        "text": "payout after surrender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526271105
+  },
+  {
+    "id": "172b140d-68d3-4f6f-89be-b284e6cc6c2b",
+    "data": [
+      {
+        "text": "where to get payment after surrender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526271105
+  },
+  {
+    "id": "cd6ca973-ea40-49f6-a546-67becc0b7793",
+    "data": [
+      {
+        "text": "how can I ",
+        "userDefined": false
+      },
+      {
+        "text": "receive my money",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " after surrender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526271105
+  },
+  {
+    "id": "d3f399ed-076b-4874-b361-62420e1fa052",
+    "data": [
+      {
+        "text": "When and how can I receive my money after surrender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526271105
+  },
+  {
+    "id": "db3c18a2-c1a0-4d0b-9877-c4d842d58702",
+    "data": [
+      {
+        "text": "When and how can I receive ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " payment after surrender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526271105
+  },
+  {
+    "id": "3556eec3-64ff-4643-a9b1-9652686b59fb",
+    "data": [
+      {
+        "text": "When can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " money after surrender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526271105
+  },
+  {
+    "id": "368412a6-e388-45f8-ab66-07ff63af84c2",
+    "data": [
+      {
+        "text": "When can I receive my payment after surrender?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526271105
+  }
+]

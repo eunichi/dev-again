@@ -1,0 +1,29 @@
+[
+  {
+    "value": "debit card",
+    "synonyms": [
+      "debit card",
+      "debit"
+    ]
+  },
+  {
+    "value": "credit card",
+    "synonyms": [
+      "credit card",
+      "credit",
+      "cc"
+    ]
+  },
+  {
+    "value": "direct debit",
+    "synonyms": [
+      "direct debit"
+    ]
+  },
+  {
+    "value": "Auto debit",
+    "synonyms": [
+      "Auto debit"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "ba993121-a93e-465d-b9d9-0991d5efcbb3",
+  "name": "Claims Progress - 2 - Claim guide",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f7c9d9be-dce4-4356-8fc5-e84f207b35fd",
+          "required": false,
+          "dataType": "@Claim",
+          "name": "Claim",
+          "value": "$Claim",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kindly refer to\nhttps://www.prudential.com.my/en/our-services/make-a-claim/easy-claim-guide/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525775452,
+  "fallbackIntent": false,
+  "events": []
+}

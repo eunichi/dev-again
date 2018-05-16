@@ -1,0 +1,29 @@
+{
+  "id": "de8d6322-7316-4696-aa3f-c80d9abbf859",
+  "name": "CCS enrolment - 7 - Unsuccessful credit, debit or auto debit deductions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Agent: Login to RAISe (https://pruway.prudential.com.my/ )\nSales Info \u003e Rejected Banker\u0027s Order / Credit Card Deduction\n\nCustomer: Login to PRUaccess Plus (https://pruaccessplus.prudential.com.my/pap/login/login.do) \u003e Click on \u0027My Transaction\u0027 tab \u003e Select \u0027Online Payment\u0027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525400979,
+  "fallbackIntent": false,
+  "events": []
+}

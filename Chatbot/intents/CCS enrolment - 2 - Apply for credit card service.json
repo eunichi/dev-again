@@ -1,0 +1,49 @@
+{
+  "id": "be0b91ac-79cf-4aac-8163-6293d71ca67a",
+  "name": "CCS enrolment - 2 - Apply for credit card service",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b10a9305-1ee4-4aa9-bb3f-1a413c9d2011",
+          "required": true,
+          "dataType": "@Payment-type",
+          "name": "Payment-type",
+          "value": "$Payment-type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What service do you want to apply?"
+            }
+          ],
+          "defaultValue": "",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You will have to complete the Credit/Debit card enrolment form attached with copy of NRIC (front and back) and submit it to us at least 2 weeks before your premium due date. The form is available PRUaccess Plus Website. (https://pruaccessplus.prudential.com.my/pap/general/public_pamb_form.do?formClassificationId\u003dform.classification.2)\n\nYes, only Original Credit/Debit card Enrollment form \u0026 Direct Debit Authorization form is accepted. We are accepting orginal and also the email copy for Credit/Debit Card enrolment.\n\nOnly Visa \u0026 Master Credit/debit card is accepted."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525427527,
+  "fallbackIntent": false,
+  "events": []
+}

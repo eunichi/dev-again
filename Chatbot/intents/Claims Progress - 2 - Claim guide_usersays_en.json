@@ -1,0 +1,90 @@
+[
+  {
+    "id": "4d21e3d0-4998-4d9a-a924-25d8d8527506",
+    "data": [
+      {
+        "text": "what is your ",
+        "userDefined": false
+      },
+      {
+        "text": "claim",
+        "alias": "Claim",
+        "meta": "@Claim",
+        "userDefined": false
+      },
+      {
+        "text": " guide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525775452
+  },
+  {
+    "id": "5682b05b-68fc-47cd-bfa3-146b4ada30eb",
+    "data": [
+      {
+        "text": "What can I ",
+        "userDefined": false
+      },
+      {
+        "text": "claim",
+        "alias": "Claim",
+        "meta": "@Claim",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525775452
+  },
+  {
+    "id": "b1996054-a866-4be8-9de8-71f54f8b616f",
+    "data": [
+      {
+        "text": "how can I ",
+        "userDefined": false
+      },
+      {
+        "text": "claim",
+        "alias": "Claim",
+        "meta": "@Claim",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525775452
+  },
+  {
+    "id": "505fb3fa-3a88-47d3-8241-55c11e6eedd5",
+    "data": [
+      {
+        "text": "What and how can I ",
+        "userDefined": false
+      },
+      {
+        "text": "claim",
+        "alias": "Claim",
+        "meta": "@Claim",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525775452
+  }
+]

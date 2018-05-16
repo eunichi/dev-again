@@ -1,0 +1,60 @@
+{
+  "id": "1eefd24c-1afe-465c-84ce-97b798d2bb8c",
+  "name": "CCS enrolment - 5 - Can\u0027t pay through credit/debit card or auto debit deduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4aa3e3d4-e2e1-4030-ac18-986b63536a5e",
+          "required": false,
+          "dataType": "@Payment-type",
+          "name": "Payment-type1",
+          "value": "$Payment-type1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the payment type? (eg. credit card, Debit card or Auto debit)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "adb5b524-5c61-4679-8112-28db67b5c7a0",
+          "required": false,
+          "dataType": "@Non-Debit-Credit-Facility",
+          "name": "Non-Debit-Credit-Facility",
+          "value": "$Non-Debit-Credit-Facility",
+          "isList": false
+        },
+        {
+          "id": "f35d0311-d2c2-4fc3-a52e-72c6477cecd6",
+          "required": false,
+          "dataType": "@Owncard",
+          "name": "Owncard",
+          "value": "$Owncard",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No. This facility is not applicable via credit/debit card or auto debit services."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526279531,
+  "fallbackIntent": false,
+  "events": []
+}

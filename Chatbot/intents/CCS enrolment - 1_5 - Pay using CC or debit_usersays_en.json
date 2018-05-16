@@ -1,0 +1,94 @@
+[
+  {
+    "id": "72171519-2e39-48de-b70b-7dde1e26aa66",
+    "data": [
+      {
+        "text": "Can I pay using ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279865
+  },
+  {
+    "id": "9894517a-9f4d-48bd-9321-fd46ccc88bd1",
+    "data": [
+      {
+        "text": "I want to pay using ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "Owncard",
+        "meta": "@Owncard",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526279865
+  },
+  {
+    "id": "63490260-9ee8-4404-adbd-128168fc3d18",
+    "data": [
+      {
+        "text": "Pay using ",
+        "userDefined": false
+      },
+      {
+        "text": "Credit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279865
+  },
+  {
+    "id": "4ec343ed-f24b-435a-aadf-ec47860dc770",
+    "data": [
+      {
+        "text": "Pay using ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "debit",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279865
+  }
+]

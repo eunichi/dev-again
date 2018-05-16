@@ -1,0 +1,98 @@
+[
+  {
+    "id": "eae22b7b-773c-43c7-acee-86469d47633b",
+    "data": [
+      {
+        "text": "Can I use ",
+        "userDefined": false
+      },
+      {
+        "text": "other",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      },
+      {
+        "text": " to pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " premium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526282770
+  },
+  {
+    "id": "f79e98bb-efdc-4006-82e4-9713a55cb7d4",
+    "data": [
+      {
+        "text": "Can I use card to pay for my premium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526282770
+  },
+  {
+    "id": "f0d5b479-58e2-4d97-bc08-b4aece8ef1e2",
+    "data": [
+      {
+        "text": "Can I use ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      },
+      {
+        "text": " to pay for my policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526282770
+  },
+  {
+    "id": "09844f00-7eca-4eb1-a5d5-2ef67069af5b",
+    "data": [
+      {
+        "text": "Can I use ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      },
+      {
+        "text": " to pay for my premium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526282770
+  }
+]

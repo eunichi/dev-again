@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6f42ce10-442c-433e-8ddc-752c1736d55d",
+    "data": [
+      {
+        "text": "How to classify",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526265403
+  },
+  {
+    "id": "dbb6baf9-bf5c-451e-af4c-3dea1cb89d15",
+    "data": [
+      {
+        "text": "How to classify ",
+        "userDefined": false
+      },
+      {
+        "text": "smoker",
+        "alias": "smoker-nonsmoker",
+        "meta": "@smoker-nonsmoker",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "non-smoker",
+        "alias": "smoker-nonsmoker1",
+        "meta": "@smoker-nonsmoker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526265403
+  }
+]

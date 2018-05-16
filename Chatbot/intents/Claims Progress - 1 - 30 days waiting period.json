@@ -1,0 +1,45 @@
+{
+  "id": "93e39df6-7a29-46b9-8932-8203bd1c8704",
+  "name": "Claims Progress - 1 - 30 days waiting period",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c7225995-cf63-477c-b6b7-262bcc6a3f4f",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        },
+        {
+          "id": "3a08ca17-7dd6-489d-b668-64bf4cb88d9d",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1. Any medical or physical conditions and its signs or symptoms that occurring within the first 30 days from the Commencement Date of the rider or the date it is revived, whichever is later, except for traumatic bodily injury caused by an Accident\n\n2. \nReimbursement of medical fee applicable on the 31 days from policy cover date or date of revival, whichever is latest. Initial pre-authorization letter (HAS Facility) is available on 91 days onwards subject to term \u0026 conditions.\n\nHAS waiting period is applied within the first 90 days from policy cover date in which no Guarantee Letter facility is available except for accident case. However, claims can still be submitted under reimbursement basis subject to terms and conditions.\n\n3. No benefit will be payable for Specific Illness occurring within first 120days from issuance"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525401046,
+  "fallbackIntent": false,
+  "events": []
+}

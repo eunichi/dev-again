@@ -1,0 +1,45 @@
+{
+  "id": "c6dcd7d6-1ca1-4cce-953f-8a7d1ccf413e",
+  "name": "NB Requirements - 5 - First premium payment upon proposal application",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "49ef33fd-91a6-4620-a23e-48cdc494f96c",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        },
+        {
+          "id": "96a7e0a8-08a7-44f0-b23c-011de359df11",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526267719,
+  "fallbackIntent": false,
+  "events": []
+}

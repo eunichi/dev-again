@@ -1,0 +1,37 @@
+{
+  "id": "0e1e6528-e84d-4359-81a8-15f68cf8e5fc",
+  "name": "CCS enrolment - 1 - Debit or credit card for Pay on Phone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c3b1fca4-1e1c-44e9-9712-c168c5a5f96d",
+          "required": false,
+          "dataType": "@Debit-Credit-Facility",
+          "name": "Debit-Credit-Facility",
+          "value": "$Debit-Credit-Facility",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Any Visa or Master debit/credit card."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526280309,
+  "fallbackIntent": false,
+  "events": []
+}

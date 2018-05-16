@@ -1,0 +1,68 @@
+[
+  {
+    "id": "f0829ceb-d41f-4106-a3c6-25549d73dc05",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "medical exam",
+        "alias": "Medical-examination",
+        "meta": "@Medical-examination",
+        "userDefined": false
+      },
+      {
+        "text": " fee be reimbursed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269136
+  },
+  {
+    "id": "d6912707-089a-41a9-b11e-260558d9324c",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "alias": "Medical-examination",
+        "meta": "@Medical-examination",
+        "userDefined": true
+      },
+      {
+        "text": " fee reimbursable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269136
+  },
+  {
+    "id": "68f55ca3-3bc4-4727-9234-800b44455dfa",
+    "data": [
+      {
+        "text": "Can I reimburse for the ",
+        "userDefined": false
+      },
+      {
+        "text": "ME",
+        "alias": "Medical-examination",
+        "meta": "@Medical-examination",
+        "userDefined": false
+      },
+      {
+        "text": " fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526269136
+  }
+]

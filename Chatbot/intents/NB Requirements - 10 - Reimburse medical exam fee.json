@@ -1,0 +1,37 @@
+{
+  "id": "a28f407a-4961-481b-856f-aa539cf122db",
+  "name": "NB Requirements - 10 - Reimburse medical exam fee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fef3fa6a-0509-46c2-b14a-f5401b043721",
+          "required": false,
+          "dataType": "@Medical-examination",
+          "name": "Medical-examination",
+          "value": "$Medical-examination",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526269418,
+  "fallbackIntent": false,
+  "events": []
+}

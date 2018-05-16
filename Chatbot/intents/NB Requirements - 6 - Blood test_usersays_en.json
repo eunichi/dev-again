@@ -1,0 +1,48 @@
+[
+  {
+    "id": "e1bddcca-5f64-43c2-a7b4-d08e48e3b677",
+    "data": [
+      {
+        "text": "Done with blood test, why do I need this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526267777
+  },
+  {
+    "id": "f0adcc33-fc16-4fef-97a7-290760aedcf0",
+    "data": [
+      {
+        "text": "Why is blood test required?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526267777
+  },
+  {
+    "id": "3ad86835-e78d-49ee-b7c6-3c7e3a7b5c63",
+    "data": [
+      {
+        "text": "I have already done ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "Owncard",
+        "meta": "@Owncard",
+        "userDefined": false
+      },
+      {
+        "text": " blood test, why is there a requirement for blood test - AFP?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526267777
+  }
+]

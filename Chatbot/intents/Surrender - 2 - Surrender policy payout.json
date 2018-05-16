@@ -1,0 +1,28 @@
+{
+  "id": "8eec8b33-8049-4df6-86e9-e698392cf34c",
+  "name": "Surrender - 2 - Surrender policy payout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can receive the payment via direct credit within 3 working days upon the surrender request was approved."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526271105,
+  "fallbackIntent": false,
+  "events": []
+}

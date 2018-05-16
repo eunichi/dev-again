@@ -1,0 +1,28 @@
+{
+  "id": "0acd69e5-2861-42b0-bc42-4b20a9c3910f",
+  "name": "Underwriting progress - 1 - Gynae report validity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526270463,
+  "fallbackIntent": false,
+  "events": []
+}

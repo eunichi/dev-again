@@ -1,0 +1,172 @@
+[
+  {
+    "id": "7ae6ae36-967e-4aba-ae30-8f85236030b5",
+    "data": [
+      {
+        "text": "policy loan",
+        "alias": "Non-Debit-Credit-Facility",
+        "meta": "@Non-Debit-Credit-Facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279531
+  },
+  {
+    "id": "f8bc1180-0d98-4c53-bf15-c7eb9ea22d12",
+    "data": [
+      {
+        "text": "Can I pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "Owncard",
+        "meta": "@Owncard",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "policy loan",
+        "alias": "Non-Debit-Credit-Facility",
+        "meta": "@Non-Debit-Credit-Facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279531
+  },
+  {
+    "id": "bba3cdc7-998e-454e-b6b6-9372d81d567e",
+    "data": [
+      {
+        "text": "Can I pay for my ",
+        "userDefined": false
+      },
+      {
+        "text": "single premium top up",
+        "alias": "Non-Debit-Credit-Facility",
+        "meta": "@Non-Debit-Credit-Facility",
+        "userDefined": true
+      },
+      {
+        "text": "  using ",
+        "userDefined": false
+      },
+      {
+        "text": "@credit card",
+        "alias": "Payment-type1",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279531
+  },
+  {
+    "id": "4b4aa929-e26c-40fb-b8d8-3dffc4913b61",
+    "data": [
+      {
+        "text": "Can I pay for my ",
+        "userDefined": false
+      },
+      {
+        "text": "policy loan",
+        "alias": "Non-Debit-Credit-Facility",
+        "meta": "@Non-Debit-Credit-Facility",
+        "userDefined": true
+      },
+      {
+        "text": " using ",
+        "userDefined": false
+      },
+      {
+        "text": "@credit card",
+        "alias": "Payment-type1",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279531
+  },
+  {
+    "id": "a3bb27a9-a98b-42bd-b094-ec3fd823c6a5",
+    "data": [
+      {
+        "text": "Can I pay for my ",
+        "userDefined": false
+      },
+      {
+        "text": "Discounted Advance Premium",
+        "alias": "Non-Debit-Credit-Facility",
+        "meta": "@Non-Debit-Credit-Facility",
+        "userDefined": true
+      },
+      {
+        "text": " using ",
+        "userDefined": false
+      },
+      {
+        "text": "@credit card",
+        "alias": "Payment-type1",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279531
+  },
+  {
+    "id": "85420a9d-83b3-4396-9e6d-e8aba545c9ae",
+    "data": [
+      {
+        "text": "Can I pay for my ",
+        "userDefined": false
+      },
+      {
+        "text": "Policy Loan / Discounted Advance Premium / Single Premium Top Up",
+        "alias": "Non-Debit-Credit-Facility",
+        "meta": "@Non-Debit-Credit-Facility",
+        "userDefined": true
+      },
+      {
+        "text": " via my ",
+        "userDefined": false
+      },
+      {
+        "text": "Credit / Debit card or Auto debit services",
+        "alias": "Payment-type1",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526279531
+  }
+]

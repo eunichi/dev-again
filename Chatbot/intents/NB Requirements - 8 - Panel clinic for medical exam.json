@@ -1,0 +1,37 @@
+{
+  "id": "a9cebd27-4fc1-4809-9bc1-7b84c5485067",
+  "name": "NB Requirements - 8 - Panel clinic for medical exam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "996c2006-cd45-48f9-9995-7cb0540c5f91",
+          "required": false,
+          "dataType": "@Medical-examination",
+          "name": "Medical-examination",
+          "value": "$Medical-examination",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526268948,
+  "fallbackIntent": false,
+  "events": []
+}

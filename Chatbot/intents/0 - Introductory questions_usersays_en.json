@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8e88af67-4d07-472e-8b33-e9cd41e08bc5",
+    "data": [
+      {
+        "text": "I have a query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525658341
+  },
+  {
+    "id": "d4d46a70-485f-451b-96d9-149cce2651c1",
+    "data": [
+      {
+        "text": "I\u0027d like to have a query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525658341
+  },
+  {
+    "id": "af661ebd-fefd-42a3-aaf1-be9e6a041035",
+    "data": [
+      {
+        "text": "I have a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525658341
+  },
+  {
+    "id": "78b1b915-4d42-4627-9e1f-eeefd398a530",
+    "data": [
+      {
+        "text": "I\u0027d like to ask a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525658341
+  }
+]

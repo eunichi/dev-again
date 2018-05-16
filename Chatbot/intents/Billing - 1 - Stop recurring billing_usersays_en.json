@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e712a53f-65ae-48b0-9718-0ab0e31dae35",
+    "data": [
+      {
+        "text": "How if I want to stop Recurring Billing ?  - ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      },
+      {
+        "text": " - ",
+        "userDefined": false
+      },
+      {
+        "text": "direct debit",
+        "alias": "Payment-type1",
+        "meta": "@Payment-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526276592
+  },
+  {
+    "id": "8cbee75b-94a0-4c38-bca6-71b391a443f2",
+    "data": [
+      {
+        "text": "How if I want to stop Recurring Billing of my ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526276592
+  },
+  {
+    "id": "1ca169c4-63d1-4c69-baea-0787490a8b16",
+    "data": [
+      {
+        "text": "How if I want to stop Recurring Billing of my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526276592
+  },
+  {
+    "id": "24b67d74-a9e5-4745-a440-249b5e01e4b3",
+    "data": [
+      {
+        "text": "How if I want to stop Recurring Billing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526276592
+  }
+]

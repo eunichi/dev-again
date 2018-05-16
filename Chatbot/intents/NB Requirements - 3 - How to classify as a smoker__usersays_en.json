@@ -1,0 +1,60 @@
+[
+  {
+    "id": "4103505c-d1cd-47d9-8ef7-3952ba89478f",
+    "data": [
+      {
+        "text": "How to classify as ",
+        "userDefined": false
+      },
+      {
+        "text": "a smoker",
+        "alias": "smoker-nonsmoker",
+        "meta": "@smoker-nonsmoker",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526284294
+  },
+  {
+    "id": "da18a4b3-4879-4d37-a6f0-d56fb2cc33d1",
+    "data": [
+      {
+        "text": "a smoker",
+        "alias": "smoker-nonsmoker",
+        "meta": "@smoker-nonsmoker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526284294
+  },
+  {
+    "id": "6170241d-70de-4a06-99dc-07616b8f3c02",
+    "data": [
+      {
+        "text": "How to classify as a ",
+        "userDefined": false
+      },
+      {
+        "text": "smoker",
+        "alias": "smoker-nonsmoker",
+        "meta": "@smoker-nonsmoker",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526284294
+  }
+]

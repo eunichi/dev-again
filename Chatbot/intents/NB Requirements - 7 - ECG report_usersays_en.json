@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1bba95ae-e6a1-4192-b8fc-0ac6c4a14322",
+    "data": [
+      {
+        "text": "ECG still needed even heart problem is not mentioned?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526268215
+  },
+  {
+    "id": "52003fbe-3132-4683-a254-0ae7ad7b19f1",
+    "data": [
+      {
+        "text": "Is ECG required even though the policy holder didn\u0027t mention they have heart problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526268215
+  },
+  {
+    "id": "c2037bad-873c-4dbf-9627-0085bfe0d787",
+    "data": [
+      {
+        "text": "Why I need to submit ECG report when the policy holder did not mention she have heart problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526268215
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "805713c1-0299-4771-98a7-f77fca954328",
+  "name": "0 - Introductory questions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sure, what\u0027s your question?",
+            "What\u0027s your query?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525658341,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "8907a9d9-25ad-465d-b140-56dc21d0483f",
+  "name": "Withdrawals - 1 - Payment after withdrawal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can receive the payment via direct credit within 3 working days upon the withdrawal request was approved."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526269484,
+  "fallbackIntent": false,
+  "events": []
+}

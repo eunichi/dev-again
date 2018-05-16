@@ -1,0 +1,28 @@
+{
+  "id": "7d8e7b9c-ee35-4604-a440-8c75583db2f9",
+  "name": "NB Requirements - 1 - Fast before blood test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526264614,
+  "fallbackIntent": false,
+  "events": []
+}

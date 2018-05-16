@@ -1,0 +1,20 @@
+[
+  {
+    "value": "smoker",
+    "synonyms": [
+      "smoker",
+      "smoking",
+      "a smoker"
+    ]
+  },
+  {
+    "value": "non-smoker",
+    "synonyms": [
+      "non-smoker",
+      "non smoker",
+      "not smoking",
+      "a non-smoker",
+      "a non smoker"
+    ]
+  }
+]

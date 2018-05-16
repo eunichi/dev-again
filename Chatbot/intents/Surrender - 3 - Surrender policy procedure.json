@@ -1,0 +1,28 @@
+{
+  "id": "752e8c16-bf2c-48a5-bf5a-8aadda466a7a",
+  "name": "Surrender - 3 - Surrender policy procedure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kindly refer to \nhttps://www.prudential.com.my/en/our-services/policy-servicing/policy-servicing-guide/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526271138,
+  "fallbackIntent": false,
+  "events": []
+}

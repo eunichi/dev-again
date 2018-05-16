@@ -1,0 +1,158 @@
+[
+  {
+    "id": "77cca14c-cf84-43f2-9a91-355ad9d16442",
+    "data": [
+      {
+        "text": "Can I use ",
+        "userDefined": false
+      },
+      {
+        "text": "my friend",
+        "alias": "Otherscard",
+        "meta": "@Otherscard",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "Payment-type1",
+        "meta": "@Payment-type",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "direct debit",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      },
+      {
+        "text": " to pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "Owncard",
+        "meta": "@Owncard",
+        "userDefined": false
+      },
+      {
+        "text": " premium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280911
+  },
+  {
+    "id": "720f9791-846f-49e0-bc90-81110d75a7c2",
+    "data": [
+      {
+        "text": "Can I use ",
+        "userDefined": false
+      },
+      {
+        "text": "other",
+        "alias": "Otherscard",
+        "meta": "@Otherscard",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": false
+      },
+      {
+        "text": " to pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "Owncard",
+        "meta": "@Owncard",
+        "userDefined": false
+      },
+      {
+        "text": " premium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280911
+  },
+  {
+    "id": "d0a67a5b-a7bd-4249-8935-368f367e09a1",
+    "data": [
+      {
+        "text": "@",
+        "userDefined": false
+      },
+      {
+        "text": "otherscard",
+        "alias": "Otherscard",
+        "meta": "@Otherscard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280911
+  },
+  {
+    "id": "10b25efa-51ed-4519-8380-caff5aeb7c63",
+    "data": [
+      {
+        "text": "Can I use ",
+        "userDefined": false
+      },
+      {
+        "text": "other people",
+        "alias": "Otherscard",
+        "meta": "@Otherscard",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s credit card/debit card/direct debit to pay for my premium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280911
+  },
+  {
+    "id": "fefb85bd-ebfd-42e9-b707-a146f1024b0f",
+    "data": [
+      {
+        "text": "Can I use ",
+        "userDefined": false
+      },
+      {
+        "text": "my friend",
+        "alias": "Otherscard",
+        "meta": "@Otherscard",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s credit card/debit card/direct debit to pay for my premium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526280911
+  }
+]

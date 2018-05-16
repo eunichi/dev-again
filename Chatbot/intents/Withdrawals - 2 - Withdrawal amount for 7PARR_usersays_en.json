@@ -1,0 +1,50 @@
+[
+  {
+    "id": "49182de7-0bc6-4e14-9600-44ce1fea6a90",
+    "data": [
+      {
+        "text": "Remaining withdrawal amount for 7PARR?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270067
+  },
+  {
+    "id": "148912ea-8da9-4dc8-8bba-c24de68f498b",
+    "data": [
+      {
+        "text": "Minimum withdrawal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270067
+  },
+  {
+    "id": "d50f2c1e-354c-442e-b3a6-ba1b9abdb820",
+    "data": [
+      {
+        "text": "How much is the available withdrawal amount for 7PARR with tax relief?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270067
+  },
+  {
+    "id": "bfa88dfd-9ffc-4753-9fcb-e61a6f338351",
+    "data": [
+      {
+        "text": "What is the withdrawal amount available for 7PARR with tax relief?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270067
+  }
+]

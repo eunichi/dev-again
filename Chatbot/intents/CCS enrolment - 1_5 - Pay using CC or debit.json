@@ -1,0 +1,51 @@
+{
+  "id": "e06e3b00-ee15-4480-8137-77bd8310d26c",
+  "name": "CCS enrolment - 1/5 - Pay using CC or debit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "debit-credit-facility",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "262a2f8d-a82c-4e42-bd15-5c8e1e1b6809",
+          "required": false,
+          "dataType": "@Payment-type",
+          "name": "Payment-type",
+          "value": "$Payment-type",
+          "isList": false
+        },
+        {
+          "id": "07ccb6c0-43ae-4500-ab87-4143a7bc1879",
+          "required": false,
+          "dataType": "@Owncard",
+          "name": "Owncard",
+          "value": "$Owncard",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What facility or service? (pay on phone , premium, policy loan, discounted advance premium , single premium top up)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526279865,
+  "fallbackIntent": false,
+  "events": []
+}

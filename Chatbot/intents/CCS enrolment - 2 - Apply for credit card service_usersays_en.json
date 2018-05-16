@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fc31fbfc-d4d7-4952-8480-8e40b394e564",
+    "data": [
+      {
+        "text": "Apply ",
+        "userDefined": false
+      },
+      {
+        "text": "Credit Card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": " Service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525427527
+  },
+  {
+    "id": "a494ac4c-f006-4f23-8a9c-226492f45265",
+    "data": [
+      {
+        "text": "Apply for the ",
+        "userDefined": false
+      },
+      {
+        "text": "Credit Card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": " Service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525427527
+  },
+  {
+    "id": "4702c895-b7d6-48a7-90b5-f292c482fadc",
+    "data": [
+      {
+        "text": "How do I apply for the ",
+        "userDefined": false
+      },
+      {
+        "text": "Credit Card",
+        "alias": "Payment-type",
+        "meta": "@Payment-type",
+        "userDefined": true
+      },
+      {
+        "text": " Service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525427527
+  }
+]

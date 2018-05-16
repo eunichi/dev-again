@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6f136eeb-7c71-4bb8-bd1c-25b0fc444317",
+    "data": [
+      {
+        "text": "Is fasting needed to take theblood test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526264614
+  },
+  {
+    "id": "11861b7f-1f8c-47db-a891-d6d2661ab9f1",
+    "data": [
+      {
+        "text": "Is fasting required before blood test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526264614
+  },
+  {
+    "id": "16e44de8-33ba-494e-87bd-9cbfde502277",
+    "data": [
+      {
+        "text": "Fast before blood test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525401907
+  },
+  {
+    "id": "389c5670-0bb3-4047-9720-bd29f981887e",
+    "data": [
+      {
+        "text": "Does my client need to fast before blood test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525401907
+  }
+]

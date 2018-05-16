@@ -1,0 +1,28 @@
+{
+  "id": "3c0ebe8e-a7c5-4fd4-8bb7-4a5b1bbc9ea9",
+  "name": "Underwriting progress - 2 - Underwriting process",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526270735,
+  "fallbackIntent": false,
+  "events": []
+}

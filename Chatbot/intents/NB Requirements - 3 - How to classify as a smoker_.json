@@ -1,0 +1,43 @@
+{
+  "id": "fd027de3-35b0-4ea6-ad0f-a755eb3fa534",
+  "name": "NB Requirements - 3 - How to classify as a smoker?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0d4c7fb3-67a8-497c-8ded-8f1dd155d499",
+          "required": false,
+          "dataType": "@smoker-nonsmoker",
+          "name": "smoker-nonsmoker",
+          "value": "$smoker-nonsmoker",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "a smoker or a non-smoker? (choose one)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No final answer provided yet (smoker)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526284294,
+  "fallbackIntent": false,
+  "events": []
+}

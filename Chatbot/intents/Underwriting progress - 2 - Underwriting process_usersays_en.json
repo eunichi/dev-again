@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f15d758b-80f0-4f58-8ddc-cd36eadf9d47",
+    "data": [
+      {
+        "text": "How long should I wait for the underwriting process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270735
+  },
+  {
+    "id": "891d71f3-317b-4178-b82d-88d612a8aacf",
+    "data": [
+      {
+        "text": "When can I expect the underwriting process update?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270735
+  },
+  {
+    "id": "868d320b-e6f0-4ba6-9315-c259043d54fd",
+    "data": [
+      {
+        "text": "When can I expect the underwriting to be done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270735
+  },
+  {
+    "id": "17daa051-8858-4308-bacb-6aec8f89e923",
+    "data": [
+      {
+        "text": "How long is the underwriting process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270735
+  },
+  {
+    "id": "02396195-e89b-4736-aac9-f13c73be1f6b",
+    "data": [
+      {
+        "text": "How long does it takes to process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270735
+  }
+]

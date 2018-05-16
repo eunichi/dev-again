@@ -1,0 +1,33 @@
+{
+  "id": "1930d2b0-a215-4706-b3c2-836c4574de47",
+  "name": "0 - Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sorry, I didn\u0027t get that.",
+            "Sorry, what was that?",
+            "I didn\u0027t get that."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525663347,
+  "fallbackIntent": true,
+  "events": []
+}

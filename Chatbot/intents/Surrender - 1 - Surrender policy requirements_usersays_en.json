@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e29c816b-50fa-44c1-9491-897f77b0c4ad",
+    "data": [
+      {
+        "text": "What do I need for surrender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270957
+  },
+  {
+    "id": "83d18933-efb0-4126-983e-dd19df7d3364",
+    "data": [
+      {
+        "text": "How to submit surrender form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270957
+  },
+  {
+    "id": "de59e156-617a-419f-ab44-5e0576cb5e15",
+    "data": [
+      {
+        "text": "Surrender policy requirements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270957
+  },
+  {
+    "id": "ed9fa857-add9-4995-83d9-68be26c5f6f2",
+    "data": [
+      {
+        "text": "where can I submit the surrender form, original or via email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270957
+  },
+  {
+    "id": "56ceae98-9523-40cc-98ab-283e543a0aa2",
+    "data": [
+      {
+        "text": "what document needed to proceed for surrender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526270957
+  },
+  {
+    "id": "80596d57-313a-404b-9acb-9a82d06b72a1",
+    "data": [
+      {
+        "text": "How to surrender my policy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525403197
+  },
+  {
+    "id": "8d1df2ba-4265-4e42-b59f-18aac3c1eecb",
+    "data": [
+      {
+        "text": "How to surrender my policy?\n what document needed to proceed for surrender where can I submit the surrender form, original or can received via email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525403197
+  }
+]

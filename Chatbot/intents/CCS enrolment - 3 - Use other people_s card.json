@@ -1,0 +1,58 @@
+{
+  "id": "572616fc-4afa-429e-a386-39c9fc1b992b",
+  "name": "CCS enrolment - 3 - Use other people\u0027s card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4931ff2d-4ccb-4ccb-89b9-13c619f287a1",
+          "required": false,
+          "dataType": "@Otherscard",
+          "name": "Otherscard",
+          "value": "$Otherscard",
+          "isList": false
+        },
+        {
+          "id": "78da05da-51c1-41eb-8909-1ffccb2f3d5d",
+          "dataType": "@Payment-type",
+          "name": "Payment-type",
+          "value": "$Payment-type",
+          "isList": false
+        },
+        {
+          "id": "5946d660-cc61-4731-9810-bab39af33b0a",
+          "dataType": "@Owncard",
+          "name": "Owncard",
+          "value": "$Owncard",
+          "isList": false
+        },
+        {
+          "id": "af4d8b17-9f4d-434d-8fb9-a9b285c6c784",
+          "dataType": "@Payment-type",
+          "name": "Payment-type1",
+          "value": "$Payment-type1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No. This facility is only applicable for the cardholder and the immediate family of the cardholder. Immediate family refers to the spouse, children, parent(s), parent(s)-in-law, brother(s) and sister(s)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526280911,
+  "fallbackIntent": false,
+  "events": []
+}

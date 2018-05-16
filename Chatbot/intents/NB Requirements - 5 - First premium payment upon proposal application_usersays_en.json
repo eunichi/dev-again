@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1509efc6-8146-495a-8636-6c3e947c9aca",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " premium upon submission required upon submitting new proposal application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526267719
+  },
+  {
+    "id": "21509eda-7561-46df-be39-d0d7a55cdfcf",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " payment of the premium when submitting the new propsosal application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526267719
+  },
+  {
+    "id": "7b118f3f-8ed2-46b1-aed5-06b2fc6e5c1d",
+    "data": [
+      {
+        "text": "Does client need to pay the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " premium upon submission of the new proposal application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526267719
+  }
+]
